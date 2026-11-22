@@ -12,8 +12,8 @@ Analysis code for:
 
 | Script | Produces |
 |---|---|
-| `R/PILCRS_Tables_11222026_42.R` | Tables 1–3 and Supplementary Tables S2–S17 |
-| `R/PILCRS_Figures_11222026_41.R` | Figures 1–3 and Supplementary Figures S1–S6 (with Supplementary Tables S18–S19 values) |
+| `PILCRS_Tables.R` | Tables 1–3 and Supplementary Tables S2–S17 |
+| `PILCRS_Figures.R` | Figures 1–3 and Supplementary Figures S1–S6 (with Supplementary Tables S18–S19 values) |
 
 ## How to run
 

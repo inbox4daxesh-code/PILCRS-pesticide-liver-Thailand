@@ -1,5 +1,7 @@
 # PILCRS: Pesticide-Informed Liver Cancer Risk Score
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24468868.svg)](https://doi.org/10.5281/zenodo.24468868)
+
 Analysis code accompanying:
 
 > **Urinary Pesticide Profiles and Liver Disease Risk in Thailand: A Machine Learning Risk Prediction Model**
@@ -83,7 +85,7 @@ Correspondence regarding the study and data access should be addressed to the co
 
 ## Citation
 
-Please cite the article above. Full citation details will be added on publication.
+Please cite the article above. The code is archived at Zenodo: https://doi.org/10.5281/zenodo.24468868. Full citation details will be added on publication.
 
 ## License
 
